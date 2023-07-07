@@ -9,6 +9,7 @@ namespace Task_3
 {
     internal class Program
     {
+        
 
         static Mutex mutex = new Mutex(false, "NDB");
 
